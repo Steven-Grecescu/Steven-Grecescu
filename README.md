@@ -7,18 +7,18 @@
 ***Languages :***
 
 ## Languages & Equipements
-![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
-![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
-![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;
-![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
-![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
-![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; 
-![imgPhp](./profile/img/php2.svg)&nbsp;&nbsp;
-![imgSymfony](./profile/img/symfony.svg)&nbsp;&nbsp;
-![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
-![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;
-![imgReact](./profile/img/react.svg)&nbsp;&nbsp;
-![imgMySql](./profile/img/mysql1.svg)&nbsp;&nbsp;
+![imgGit](/img/git.svg)&nbsp;&nbsp;
+![imgVscode](/img/vscode.svg)&nbsp;&nbsp;
+![imgFigma](/img/figma.svg)&nbsp;&nbsp;
+![imgHtml](/img/html.svg) &nbsp;&nbsp;
+![imgCSS](/img/css.svg)&nbsp;&nbsp;
+![imgLess](/img/less-1.svg)&nbsp;&nbsp; 
+![imgPhp](/img/php2.svg)&nbsp;&nbsp;
+![imgSymfony](/img/symfony.svg)&nbsp;&nbsp;
+![imgBootStrap](/img/bootstrap.svg)&nbsp;&nbsp; 
+![imgJs](/img/javascript.svg)&nbsp;&nbsp;
+![imgReact](/img/react.svg)&nbsp;&nbsp;
+![imgMySql](/img/mysql1.svg)&nbsp;&nbsp;
 
 ***Equipements :***
 
