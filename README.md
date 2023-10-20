@@ -6,8 +6,19 @@
 ### Language Et Equipements 
 ***Languages :***
 
-![html-5-svgrepo-com](https://github.com/Steven-Grecescu/Steven-Grecescu/assets/145989695/5551dd4c-dbd9-48f0-b051-d4084cf594e2) 
-![css-3-logo-svgrepo-com](https://github.com/Steven-Grecescu/Steven-Grecescu/assets/145989695/8faf3ae9-977f-4901-b0ee-da0cfb1d86ff)
+## Languages & Equipements
+![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
+![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
+![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;
+![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
+![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
+![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; 
+![imgPhp](./profile/img/php2.svg)&nbsp;&nbsp;
+![imgSymfony](./profile/img/symfony.svg)&nbsp;&nbsp;
+![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
+![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;
+![imgReact](./profile/img/react.svg)&nbsp;&nbsp;
+![imgMySql](./profile/img/mysql1.svg)&nbsp;&nbsp;
 
 ***Equipements :***
 
