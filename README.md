@@ -7,8 +7,6 @@
 ***Languages :***
 
 ![imgGit](/img/git.svg)&nbsp;&nbsp;
-![imgVscode](/img/vscode.svg)&nbsp;&nbsp;
-![imgFigma](/img/figma.svg)&nbsp;&nbsp;
 ![imgHtml](/img/html.svg) &nbsp;&nbsp;
 ![imgCSS](/img/css.svg)&nbsp;&nbsp;
 ![imgLess](/img/less-1.svg)&nbsp;&nbsp; 
@@ -21,7 +19,9 @@
 
 ***Equipements :***
 
-![windowsphone-color-svgrepo-com](https://github.com/Steven-Grecescu/Steven-Grecescu/assets/145989695/0ade02f1-8a4c-443c-890e-a93f5c32a44d)
+![imgFigma](/img/figma.svg)&nbsp;&nbsp;
+![imgVscode](/img/vscode.svg)&nbsp;&nbsp;
+
 
 ### Projets
 ***Mes Projets :***
